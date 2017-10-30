@@ -1,4 +1,4 @@
-#GOing: Motivos para se usar GOlang
+# GOing: Motivos para se usar GOlang
 
 Material da minha apresentação no DevFest Maceió 2016
 
