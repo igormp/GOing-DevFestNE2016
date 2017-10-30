@@ -1,18 +1,18 @@
-#Simple Nodejs CRUD app
+# Simple Nodejs CRUD app
 
-##Requeriments
+## Requeriments
 
     npm install express --save
     npm install body-parser --save
 
-##Usage
+## Usage
 
     npm install
 Then run with 
     nodejs index.js
 
 
-##Routes
+## Routes
 
 Método | Rota | Função
 -------|------|---------
